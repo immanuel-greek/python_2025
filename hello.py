@@ -1,3 +1,10 @@
+# this  is code for hello world
+# done by immanuel ndaule
+##############################
+
+
+
+
 # print hello world on the screen
 import os
 os.system("clear")
